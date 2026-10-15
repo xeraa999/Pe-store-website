@@ -4,7 +4,7 @@
   2. Ganti foto, nama, kategori, dan harga produk pada array products.
   Nomor WhatsApp harus memakai kode negara tanpa tanda + atau spasi, contoh 6281234567890.
 */
-const WHATSAPP_NUMBER = "6281234567890"; // GANTI dengan nomor WhatsApp toko kamu
+const WHATSAPP_NUMBER = "6288216682193"; // GANTI dengan nomor WhatsApp toko kamu
 
 const products = [
   {
